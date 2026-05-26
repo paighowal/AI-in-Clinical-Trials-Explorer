@@ -1,4 +1,4 @@
-# Clinical Trial Data Assistant
+# AI Powered Clinical Trial Data Assistant
 
 A conversational AI agent that allows you to query clinical trial data using natural language. Ask questions about trials, and the system intelligently converts them to SQL, retrieves relevant data, and generates visualizations.
 
