@@ -1,3 +1,8 @@
+> **I'm currently open to new opportunities.**  
+> I built this to show what's possible when you combine pharma domain knowledge with data engineering and AI automation. If your team is working on problems like this - medical intelligence, life sciences data, or AI in life sciences - I'd genuinely love to chat.  
+> **[Nitin Paighowal on LinkedIn](https://www.linkedin.com/in/nitinpaighowal/)**
+
+---
 # AI Powered Clinical Trial Data Assistant
 
 A conversational AI agent that allows you to query clinical trial data using natural language. Ask questions about trials, and the system intelligently converts them to SQL, retrieves relevant data, and generates visualizations.
